@@ -1,0 +1,7 @@
+dotenv
+llama_index
+llama_index_experimental
+pandas
+seaborn
+plotly-express
+matplotlib

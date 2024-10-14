@@ -1,0 +1,2 @@
+dotenv
+pandasai[google-ai,google-sheet,excel,modin,polars,langchain,numpy,ggplot,seaborn,plotly,statsmodels,scikit-learn,streamlit,ibm-watsonx-ai]

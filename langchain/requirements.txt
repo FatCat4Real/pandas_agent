@@ -1,0 +1,10 @@
+dotenv
+pandas
+langchain
+langchain_experimental
+langchain_openai
+seaborn
+plotly-express
+matplotlib
+tabulate
+requests
