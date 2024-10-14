@@ -1,0 +1,5 @@
+pandasai/env/
+pandasai/cache/
+pandasai/pandasai.log
+langchain/env/
+llama_index/env
